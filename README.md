@@ -1,4 +1,4 @@
-# Hi, I'm J Jerol Benjamin 👋 #
+# Hi, I'm J Jerold Benjamin 👋 #
 ## Welcome to my Github Page ##
 Artificial Intelligence and Machine Learning Engineer with expertise in Generative AI, LLM, Deep Learning, and NLP. Proficient in designing, training, and deploying machine learning models, building neural networks, and implementing AI-driven solutions. Skilled in data analysis, visualization, data preprocessing, ETL, and database management (MS SQL). Adept in Python programming, data modeling, data extraction, and developing Flask APIs for seamless integration. Strong foundation in data science, prompt engineering, and business analysis, seeking a role to apply these skills in innovative projects.
 ***
